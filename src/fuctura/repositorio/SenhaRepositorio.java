@@ -1,4 +1,4 @@
-package fuctura.resitorio;
+package fuctura.repositorio;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
